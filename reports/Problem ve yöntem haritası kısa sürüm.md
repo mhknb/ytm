@@ -39,7 +39,7 @@ Her problem için en az 2 açık veri seti var. "Doğrulandı" işareti, veri se
 - **Açık veri setleri:**
   - **ASD:** hareketli hedefler için ses ve sismik kayıt. IEEE DataPort'ta; ücretsiz üyelik gerekebilir.
   - **M3N-VC:** çok düğümlü mikrofon ve sismik sensör ile araç sınıflandırma (GitHub).
-  - **ACIDS:** ABD Ordusu'nun eski ses-sismik araç verisi; erişimi kontrol edilmeli.
+  - **ACIDS:** ABD Ordusu'nun eski ses-sismik verisi, 9 araç tipi, 270'ten fazla geçiş; erişimi kontrol edilmeli.
 - **Not:** Kayıtlar kısa. Aylar süren gerçek saha kaydı yok.
 
 ### Problem 3. İHA üzerinde hedef görme (gece ve termal dahil)
